@@ -1,4 +1,4 @@
-package alexc.poointerfaces.modelo;
+package org.alexc.poointerfaces.modelo;
 
 public class ClientePremium extends Cliente implements Comparable<ClientePremium>{
     public ClientePremium(String nombre, String apellido) {

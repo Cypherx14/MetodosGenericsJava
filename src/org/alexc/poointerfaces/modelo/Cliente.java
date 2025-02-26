@@ -1,4 +1,4 @@
-package alexc.poointerfaces.modelo;
+package org.alexc.poointerfaces.modelo;
 
 import java.util.Objects;
 

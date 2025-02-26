@@ -1,4 +1,4 @@
-package alexc.generics;
+package org.alexc.generics;
 
 import org.alexc.poointerfaces.modelo.Cliente;
 import org.alexc.poointerfaces.modelo.ClientePremium;

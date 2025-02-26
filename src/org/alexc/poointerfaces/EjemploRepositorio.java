@@ -1,4 +1,4 @@
-package alexc.poointerfaces;
+package org.alexc.poointerfaces;
 
 import org.alexc.poointerfaces.modelo.Cliente;
 import org.alexc.poointerfaces.repositorio.*;
